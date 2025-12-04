@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "メランコリック（feat. neko）",
+  "base_artist": "ナノ",
+  "createdAt": "2025-12-04T16:41:26.218669Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メランコリック（feat. neko）",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/01_メランコリック(feat._neko)_NANO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メランコリック(feat. neko)",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/02_メランコリック(feat._neko)_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メランコリック（feat. neko）",
+      "artist": "ナノ; neko",
+      "has_synced": true,
+      "path": "select/03_メランコリック(feat._neko)_ナノ;_neko.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メランコリック（feat. neko）",
+      "artist": "ペマ",
+      "has_synced": true,
+      "path": "select/04_メランコリック(feat._neko)_ペマ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メランコリック（feat. neko）",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/05_メランコリック(feat._neko)_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メランコリック (feat․ neko)",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/06_メランコリック_(feat._neko)_ナノ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メランコリック(feat. neko)",
+      "artist": "ナノ",
+      "has_synced": false,
+      "path": "select/pl_01_メランコリック(feat._neko)_ナノ.txt"
+    }
+  ]
+}
